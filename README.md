@@ -64,11 +64,11 @@ npm run dev
 
 - **React.js** – Component-based UI library  
 - **React Hooks & Context API** – For state and data flow  
-- **CSS / Tailwind (if used)** – For styling  
+- **CSS (used)** – For styling  
 - **JavaScript (ES6+)** – For dynamic interactions
 - 
 - 👨‍💻 Author
 
-Jayanth Shetty
+Jayanth BB
 📘 GitHub Profile: https://github.com/Jayanth-shetty
 
