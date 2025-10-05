@@ -44,17 +44,31 @@ FoodOrderApp/
 ```bash
 git clone https://github.com/Jayanth-shetty/Food_ordering_ReactApp.git
 cd Food_ordering_ReactApp
-
+```
 #Install Dependencies
+```bash
    npm install
-   cd/backend && npm start
-   npm run dev
+```
+   ```bash
+cd/backend
+```
+```bash
+ npm start
+   ```
+ #open new terminal and paste
+```bash
+npm run dev
 
-------
-
+```
 ## 🛠️ Built With
 
-- **React.js** — Component-based UI library  
-- **React Hooks & Context API** — For state and data flow  
-- **CSS / Tailwind CSS (if used)** — For responsive styling  
-- **JavaScript (ES6+)** — For dynamic interactions
+- **React.js** – Component-based UI library  
+- **React Hooks & Context API** – For state and data flow  
+- **CSS / Tailwind (if used)** – For styling  
+- **JavaScript (ES6+)** – For dynamic interactions
+- 
+- 👨‍💻 Author
+
+Jayanth Shetty
+📘 GitHub Profile: https://github.com/Jayanth-shetty
+
