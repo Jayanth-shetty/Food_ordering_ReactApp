@@ -1,9 +1,9 @@
 ## 🍔 Food Ordering React App
 
-** A modern and responsive **React-based food ordering application** that allows users to browse food items, add them to the cart, and place orders seamlessly.
+**A modern and responsive **React-based food ordering application** that allows users to browse food items, add them to the cart, and place orders seamlessly.
 
 ---
-
+```bash
 ## 📁 Project Structure
 
 FoodOrderApp/
@@ -22,7 +22,7 @@ FoodOrderApp/
 │ └── styles/
 ├── package.json
 └── README.md
-
+```
 
 ---
 
